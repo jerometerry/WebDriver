@@ -3,6 +3,8 @@ WebDriver
 
 This is a demo of using Selenium WebDriver + PhantomJS, and NUnit to perform a Google search, saving the HTML results as an image.
 
+This demo is based on [Michael Whelan's](http://michael-whelan.net/) blog post [Using PhantomJS and GhostDriver with Selenium WebDriver in .Net](http://michael-whelan.net/using-phantomjs-with-webdriver)
+
 This technique is one way to write acceptance tests for web projects in NUnit, which can be used inside a Continuous Integration server.
 
 * [Selenium Web Driver](http://docs.seleniumhq.org/projects/webdriver/) - Allows driving a browser natively as a user would
